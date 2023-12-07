@@ -1,0 +1,14 @@
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\bin\Debug\net6.0\Ejercicio l06.exe
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\bin\Debug\net6.0\Ejercicio l06.deps.json
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\bin\Debug\net6.0\Ejercicio l06.runtimeconfig.json
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\bin\Debug\net6.0\Ejercicio l06.dll
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\bin\Debug\net6.0\Ejercicio l06.pdb
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.AssemblyInfoInputs.cache
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.AssemblyInfo.cs
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.dll
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\refint\Ejercicio l06.dll
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.pdb
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\Ejercicio l06.genruntimeconfig.cache
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l06\obj\Debug\net6.0\ref\Ejercicio l06.dll

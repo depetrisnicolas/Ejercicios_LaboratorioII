@@ -1,0 +1,14 @@
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\bin\Debug\net6.0\Ejercicio l07.exe
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\bin\Debug\net6.0\Ejercicio l07.deps.json
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\bin\Debug\net6.0\Ejercicio l07.runtimeconfig.json
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\bin\Debug\net6.0\Ejercicio l07.dll
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\bin\Debug\net6.0\Ejercicio l07.pdb
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.AssemblyInfoInputs.cache
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.AssemblyInfo.cs
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.dll
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\refint\Ejercicio l07.dll
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.pdb
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\Ejercicio l07.genruntimeconfig.cache
+C:\Users\nico_\Desktop\Programación y Laboratorio II\Ejercicios\Introducción a .NET y C#\Ejercicio l07\obj\Debug\net6.0\ref\Ejercicio l07.dll
